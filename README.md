@@ -5,7 +5,7 @@ This is the official iOS package for [Elastic APM](https://www.elastic.co/soluti
 
 ## Documentation
 
-Visit [elastic.co](https://www.elastic.co/guide/en/apm/agent/swift/current/index.html) for the iOS agent documentation.
+Visit [elastic.co](https://www.elastic.co/docs/reference/apm/agents/ios) for the iOS agent documentation.
 
 To build this project's documentation locally, you must first clone the [`elastic/docs` repository](https://github.com/elastic/docs/). Then run the following commands:
 
